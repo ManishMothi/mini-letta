@@ -1,4 +1,4 @@
 transformers
 chromadb
 sentence-transformers
-numpy
+numpy<2
